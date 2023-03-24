@@ -15,10 +15,10 @@
   cursor: pointer;
 }
 
-/* img{
-  
-} */
-
 img.selected {
   border: 10px solid #555;
 }
+/* 
+button.right {
+  float: left;
+} */
