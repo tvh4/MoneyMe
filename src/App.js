@@ -1,15 +1,18 @@
-import { BrowserRouter } from 'react-router-dom';
+//import { BrowserRouter } from 'react-router-dom';
 import './App.css';
-import Product from './components/Product';
-
+//import Product from './components/Product';
+//import TTLT from './components/TTLT';
+import CardList from './components/CardList';
+import SubmitButton from './components/SubmitButton.js'
 function App() {
   return (
-    // <div className="App">
+    <div className="App">
+      <CardList />
+      <SubmitButton />
+    </div>
+    // <BrowserRouter>
     //   <Product />
-    // </div>
-    <BrowserRouter>
-      <Product />
-    </BrowserRouter>
+    // </BrowserRouter>
   );
 }
 
