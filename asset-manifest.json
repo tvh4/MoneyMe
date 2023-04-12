@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MoneyMe/static/css/main.5a5a17ab.css",
+    "main.js": "/MoneyMe/static/js/main.00ece0bd.js",
+    "static/js/787.f7cb1ebf.chunk.js": "/MoneyMe/static/js/787.f7cb1ebf.chunk.js",
+    "static/media/th1.JPG": "/MoneyMe/static/media/th1.ba2ab75886f3bac83827.JPG",
+    "static/media/cxt1.JPG": "/MoneyMe/static/media/cxt1.b40980ecf3cc09988c59.JPG",
+    "static/media/cnhh1.JPG": "/MoneyMe/static/media/cnhh1.cc033360959b27efbf8e.JPG",
+    "index.html": "/MoneyMe/index.html",
+    "main.5a5a17ab.css.map": "/MoneyMe/static/css/main.5a5a17ab.css.map",
+    "main.00ece0bd.js.map": "/MoneyMe/static/js/main.00ece0bd.js.map",
+    "787.f7cb1ebf.chunk.js.map": "/MoneyMe/static/js/787.f7cb1ebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a5a17ab.css",
+    "static/js/main.00ece0bd.js"
+  ]
+}
